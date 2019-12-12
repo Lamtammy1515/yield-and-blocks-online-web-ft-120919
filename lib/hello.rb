@@ -13,3 +13,4 @@ def hello_t(array)
   array
 end
 
+my_each(list) {|i| puts "So I think #{i} is a piece of shit"}
