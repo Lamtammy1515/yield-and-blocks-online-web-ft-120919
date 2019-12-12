@@ -11,7 +11,5 @@ def hello_t(array)
   end
   
   array
-else
-  hello_t.each(names) do |name| puts name
 end
 
